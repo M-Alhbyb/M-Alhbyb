@@ -1,6 +1,34 @@
-# 💫 About Me:
-👋 Hi, I’m Mohamed (Pasha)<br><br>I’m a self-taught developer and Linux enthusiast who loves building things, breaking things, and learning how they work. I work daily with Debian and Arch Linux, using tools like Neovim, Tmux, Bash, and Inkscape to craft efficient workflows and clean designs.<br><br>🚀 What I Do<br><br>Full-stack web development with Django, HTML, CSS, SASS, JavaScript<br><br>Systems work and automation using Bash and Linux internals<br><br>Exploring NLP with Python, building small tools and experiments<br><br>Graphic design with Inkscape, with years of experience<br><br>Studying C programming (K&R approach) and computer science fundamentals<br><br>🎯 Current Goals<br><br>Become fully confident in English speaking<br><br>Improve Python for NLP<br><br>Continue studying the McKinsey Forward Program<br><br>Build my own custom Linux distro ISO<br><br>Prepare for the IELTS exam<br><br>🛠️ Technologies & Tools<br><br>Languages: Python, C, JavaScript, Bash<br>Frameworks: Django<br>Linux: Debian (favorite), Arch, experimenting with LFS/Gentoo<br>Tools: Neovim, Tmux, Inkscape, LibreOffice<br><br>🎨 Interests<br><br>Linux customization<br><br>Graphic design<br><br>Automation scripts<br><br>Low-level programming<br><br>Productivity and learning systems<br><br>Feel free to fork, star, or reach out — always happy to connect with developers and open-source lovers!
+# 💻 Mohamed Elhabib (Pasha) - Full-Stack Django Developer & Linux Enthusiast 🚀
 
+👋 Hi there! I'm Pasha, a self-taught developer focused on building robust and efficient applications.
+
+---
+
+### 🔥 Core Expertise
+
+* **Framework:** **Django** (Python)
+* **Role:** **Full-Stack Web Development**
+* **Systems:** **Linux** (Debian/Arch) & **Automation** (Bash)
+* **Workflow:** Terminal-centric productivity using **Neovim** and **Tmux**.
+
+### 🌐 What I Do Best
+
+I leverage **Django** for rapid, secure, and scalable backend development, complemented by modern frontend skills. My deep expertise in **Linux systems** allows me to craft optimized development environments and automation tools.
+
+* **Backend Focus:** Database interaction, security, and utilizing core Django features.
+* **Frontend Focus:** Clean, modern UI/UX using HTML/CSS/SASS/JS.
+* **System Mastery:** Strong command of Linux internals and effective **Bash** scripting for task automation.
+
+### 🎯 Current Focus & Goals
+
+I am dedicated to continuous growth and mastering foundational concepts:
+
+* 📚 **Skill Deepening:** Improving Python for NLP & studying Computer Science.
+* ⭐ **Systems Project:** Building my own custom Linux distro ISO.
+
+---
+
+Feel free to fork, star, or reach out. I'm always happy to connect with developers and open-source lovers!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pasha216) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-alhbyb) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pasha21_6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedalhbyb@gmail.com) 
